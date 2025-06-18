@@ -1,4 +1,4 @@
-ĐỀ 1 – GIỐNG ĐỀ MẪU
+ĐỀ 1 – 
 
 Bài 1: Nội suy Newton tiến cho hàm f(x) = 2x / (x^2 + 1), với các mốc đều, nội suy tại điểm x nhập vào. (File: newton_tien.c)
 
